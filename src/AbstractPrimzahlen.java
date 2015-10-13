@@ -1,8 +1,8 @@
-
+package primzahlen;
 public abstract class AbstractPrimzahlen {
 	
 	/**
-	 * Gibt alle Primzahlen auf der Konsole aus für die gilt:
+	 * Gibt alle Primzahlen auf der Konsole aus fï¿½r die gilt:
 	 * Primzahl <= grenze.
 	 *
 	 * @param grenze
@@ -13,7 +13,7 @@ public abstract class AbstractPrimzahlen {
 	public abstract void suchePrimzahlen(int grenze);
 	
 	/**
-	 * Prüft ob gegebene Zahl eine Primzahl ist
+	 * Prï¿½ft ob gegebene Zahl eine Primzahl ist
 	 * 
 	 * @param zahl
 	 * @return

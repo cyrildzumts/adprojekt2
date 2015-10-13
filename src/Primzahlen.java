@@ -1,4 +1,4 @@
-
+package primzahlen;
 public class Primzahlen extends AbstractPrimzahlen
 {
 
